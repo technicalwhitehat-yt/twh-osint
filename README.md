@@ -372,7 +372,7 @@ The platform exposes a RESTful API for the core intelligence services. All looku
   ║  Size: 120x120px (round shape mein dikhega)                        ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
-<img src="images/afsar-ali.jpg" alt="Afsar Ali — Technical White Hat" width="120" style="border-radius: 50%;"/>
+<img src="images/afsar-ali.png" alt="Afsar Ali — Technical White Hat" width="120" style="border-radius: 50%;"/>
 
 ```
 ╔═══════════════════════════════════════════════════════╗
