@@ -541,7 +541,9 @@ Badges       │ SR. ADMIN · SUPPORT · ETHICAL HACKER · WEB DEV
   ║  Size: 1280x360px for banner                                        ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
-
+<div align="center">
+<img src="images/youtube-banner.png" alt="Technical White hat" width="100" style="border-radius: 50%;"/>
+</div>
 The **Technical White Hat** YouTube channel is India's leading ethical hacking channel, teaching cybersecurity **in Hindi (हिंदी)** to make it accessible to every Indian. Content includes:
 
 - 📱 Mobile & IP tracing tutorials
